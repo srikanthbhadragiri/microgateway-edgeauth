@@ -10,7 +10,7 @@
     <Distributed>true</Distributed>
     <Synchronous>false</Synchronous>
     <AsynchronousConfiguration>
-        <SyncIntervalInSeconds>5</SyncIntervalInSeconds>
+        <SyncIntervalInSeconds>10</SyncIntervalInSeconds>
         <SyncMessageCount>100</SyncMessageCount>
     </AsynchronousConfiguration>
 </Quota>
