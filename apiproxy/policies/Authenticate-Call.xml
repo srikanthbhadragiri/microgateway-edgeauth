@@ -15,6 +15,6 @@
     <Response>calloutResponse</Response>
     <HTTPTargetConnection>
         <Properties/>
-        <URL>https://edgemicroservices.apigee.net</URL>
+        <URL>https://emgservices.apigee.net</URL>
     </HTTPTargetConnection>
 </ServiceCallout>
